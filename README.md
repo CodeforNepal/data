@@ -1,7 +1,7 @@
 # Datasets
 
 
-A collection of open data sets created by us. The data are in standard CSV format.
+A collection of open data sets created by Code for Nepal team. The data are in standard CSV format.
 
 
 | Data | Source |Year|
@@ -13,3 +13,4 @@ A collection of open data sets created by us. The data are in standard CSV forma
 | [Literate population in Nepal](https://github.com/codefornepal//data/tree/master/datasets/unesco/literacy-rates.csv)|UNESCO | 2013 |
 | [Life expectancy and income in Nepal](https://github.com/codefornepal//data/tree/master/datasets/hdi/life expectancy-income.csv)   |  Human Development Report 2014 (PDF) | 2014 |
 |[Women prisoners in Nepal](https://docs.google.com/spreadsheets/d/1mE514ye1EAOqxO2xiWTmdqhPpoxR9nAst03Gc4r9dvg/pubhtml)|International Centre for Prison Studies|2015|
+|[Districts at glance](https://docs.google.com/spreadsheets/d/1RSip3Sl-H_UaoQDAL8P7J0XNd-RnOF9z6XC6zaQ1BCo/edit?usp=sharing)|Nepal Census|2011|
