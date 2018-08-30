@@ -1,7 +1,4 @@
-District:- Jajarkot,,,,
-,,,,
-Ward No. ,Household ,Total Population ,Total Male ,Total Female
-,,,,
+Ward No.,Household,Total Population,Total Male,Total Female
 1,288,1642,812,830
 2,480,2818,1408,1410
 3,345,1911,998,913
@@ -11,4 +8,4 @@ Ward No. ,Household ,Total Population ,Total Male ,Total Female
 7,357,2174,1055,1119
 8,470,2717,1355,1362
 9,384,2218,1133,1085
-Total ,3590,20621,10407,10214
+Total,3590,20621,10407,10214
