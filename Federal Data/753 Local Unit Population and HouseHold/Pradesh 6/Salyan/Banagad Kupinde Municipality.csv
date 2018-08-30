@@ -1,5 +1,4 @@
-Ward No.,Household,Total Population ,Total Male ,Total Female 
-,,,,
+Ward No.,Household,Total Population,Total Male,Total Female
 1,1002,4785,2235,2550
 2,425,2209,1016,1193
 3,534,2964,1438,1526
@@ -12,4 +11,4 @@ Ward No.,Household,Total Population ,Total Male ,Total Female
 10,442,2415,1211,1204
 11,550,3182,1553,1629
 12,381,1983,970,1013
-Total ,6763,36052,17382,18670
+Total,6763,36052,17382,18670
