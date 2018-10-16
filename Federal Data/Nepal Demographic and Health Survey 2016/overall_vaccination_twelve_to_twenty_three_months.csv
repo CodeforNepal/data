@@ -1,7 +1,7 @@
 province, vaccinations, total
 Province 1, NONE, 1
-Province 1, BASIC, 73
-Province 1, ALL, 61
+Province 1, BASIC, 61
+Province 1, ALL, 73
 Province 1, SOME, 34
 Province 2, NONE, 5
 Province 2, BASIC, 93
