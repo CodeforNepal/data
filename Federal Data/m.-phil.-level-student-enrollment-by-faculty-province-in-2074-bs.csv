@@ -1,7 +1,7 @@
-province ,T/F,agriculture,Animal Science Veterinary Science and Fisheries,Education,Engineering,Forestry,HSS,Law,Management,Medical Sciences,"Science
+province,T/F,agriculture,Animal Science Veterinary Science and Fisheries,Education,Engineering,Forestry,HSS,Law,Management,Medical Sciences,"Science
 &Technology",Sanskrit,total
-province 1 ,T,0,0,0,0,0,0,0,0,0,0,0,0
-province 1 ,F,0,0,0,0,0,0,0,0,0,0,0,0
+province 1,T,0,0,0,0,0,0,0,0,0,0,0,0
+province 1,F,0,0,0,0,0,0,0,0,0,0,0,0
 province 2,T,0,0,0,0,0,0,0,0,0,0,0,0
 province 2,F,0,0,0,0,0,0,0,0,0,0,0,0
 province 3,T,33,10,389,6,1,126,0,221,0,168,0,954
